@@ -1,2 +1,2 @@
 # COMP-352
-This repository contains the assignments for the course data structures and algorithms
+This repository contains the assignments for the course Data Structures and Algorithms
